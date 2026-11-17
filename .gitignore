@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local Claude settings
+.claude/
+
+# Fused model weights (4.7 GB — too large for GitHub)
+fused-lease-auditor/*.safetensors
