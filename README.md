@@ -41,7 +41,7 @@ Lease PDF ──► PyMuPDF text extraction ──► split into clauses
 **Requirements:** macOS on Apple Silicon (M1 or newer), Python 3.10+, ~8 GB free RAM.
 
 ```bash
-git clone https://github.com/aaravbhat0010/https-github.com-aaravbhat0010-lease-auditor.git lease-auditor
+git clone https://github.com/aaravbhat0010/lease-auditor.git
 cd lease-auditor
 python3 -m venv .venv
 source .venv/bin/activate
